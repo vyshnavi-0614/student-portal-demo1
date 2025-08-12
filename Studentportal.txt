@@ -1,0 +1,6 @@
+Name =" VYSHNAVI"
+SUC="2358250078"
+RollNo ="11"
+Hallticket="230377401032"
+Course= "BCA"
+College name="Aditya degree college"
